@@ -1,0 +1,4 @@
+graphviz
+visdom
+tensorboardX
+tensorflow
